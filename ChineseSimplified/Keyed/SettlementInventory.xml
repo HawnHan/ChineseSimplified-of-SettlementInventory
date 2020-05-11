@@ -2,7 +2,13 @@
 <LanguageData>
   <CommandShowBuyableItems>显示待售项</CommandShowBuyableItems>
   <CommandShowBuyableItemsDesc>该殖民地的待售物品</CommandShowBuyableItemsDesc>
-  
+
   <BuyableItemsTitle>此商人的待售物</BuyableItemsTitle>
-  <SettlementNeedsVisit>需要先访问一次该殖民地。</SettlementNeedsVisit>
+  <RequirementsNeedToBeFulfilled>请先满足以下条件:</RequirementsNeedToBeFulfilled>
+  <SettlementNeedsVisit>至少访问一次该殖民地。</SettlementNeedsVisit>
+  <CommsConsoleRequired>已通电的通讯台。</CommsConsoleRequired>
+
+  <SettlementInventory>Settlement Inventory</SettlementInventory>
+  <RequireFirstVisit>需要访问过殖民地</RequireFirstVisit>
+  <RequireCommsConsole>需要通讯台</RequireCommsConsole>
 </LanguageData>
